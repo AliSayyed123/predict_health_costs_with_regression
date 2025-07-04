@@ -2,16 +2,16 @@
 
 This project predicts individual medical expenses using demographic and lifestyle features such as age, sex, BMI, number of children, smoking status, and region.
 
-## 🔍 Objective
+##  Objective
 Train a regression model that predicts healthcare costs with a **Mean Absolute Error (MAE) under $3500**.
 
-## 📦 Features
+##  Features
 - One-hot encoding for categorical variables
 - Standard scaling for numeric inputs
 - TensorFlow/Keras model with multiple dense layers
 - Evaluation using MAE and MSE
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - Scikit-learn
